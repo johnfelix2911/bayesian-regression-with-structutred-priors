@@ -44,8 +44,5 @@ with pm.Model() as model:
 # Analyze the results
 ```
 
-## Contribution
-Contributions are welcome! Please feel free to create a pull request or raise an issue for any enhancements or bug fixes.
-
 ## License
 This project is licensed under the MIT License.
